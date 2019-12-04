@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "136311635921",
+    "firebase_url": "https://mbogi-events.firebaseio.com",
+    "project_id": "mbogi-events",
+    "storage_bucket": "mbogi-events.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136311635921:android:9d4890615809f78a682af0",
+        "android_client_info": {
+          "package_name": "com.c4entertainment.mbogievents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136311635921-qguhuaj69cqo2qm33s0aohtjp94rpgqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.c4entertainment.mbogievents",
+            "certificate_hash": "75c49c01925db9ef4909788ec45d8c8b357e9a2d"
+          }
+        },
+        {
+          "client_id": "136311635921-rhju1lcsru4fcbk1hqprig3ep18lbkdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDePGok8ZFmBszaPcIwg4NMP7plrzeRHvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136311635921-rhju1lcsru4fcbk1hqprig3ep18lbkdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
